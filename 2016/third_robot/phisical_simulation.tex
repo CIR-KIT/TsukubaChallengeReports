@@ -2,8 +2,53 @@
 \usepackage{docmute}
 \input{settings}
 \begin{document}
-\section{物理シミュレーションの活用}
+\section{物理シミュレータの活用}
 \label{sec:simulation}
-我々は，九州工業大学工学部の学部生を中心としたロボット開発チームであり，屋内外の移動を行う福祉ロボットの開発に取り組んでいる．このような福祉ロボットに必要とされる機能には，案内・荷物の運搬・搭乗者の安全な搬送・周囲環境に対する回避，発見，追従動作などが挙げられる．そこで我々は市販の電動カートを改造し，これらの作業を行うための福祉ロボット(KIT-C3)を開発した．本稿では，このロボットの開発とつくばチャレンジ2016での実験結果について報告する．
+
+これまで述べた様々な機能の開発を効率化するべく，ROS 標準の物理シミュレータ GAZEBO \cite{gazebo} を活用した．シミュレータを利用することで，実機で動作させる前段階においても机上で動作検証が可能となった．さらに，九州からつくばへのロボット搬送期間においても，デバッグ作業を継続することができたことも，遠方からの参加チームとしては特筆すべき利点であった．
+
+本GAZEBO 対応に際して，1) シミュレーションモデルの構築，2) ros\_control への対応，を主として行った．本節ではこれらについて説明する．
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=8cm]{./fig/png/simulation_summary.png}
+    \caption{GAZEBO によるシミュレーション空間の外観．}
+    \label{simulation_summary}
+\end{figure}
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=8cm]{./fig/png/simulation_field.png}
+    \caption{シミュレーション用の走行フィールド全体図．}
+    \label{simulation_field}
+\end{figure}
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=8cm]{./fig/png/human_model.png}
+    \caption{GAZEBO 用人物モデル．}
+    \label{human_model}
+\end{figure}
+
+\subsection{シミュレーションモデルの構築}
+\label{subsec:simulationmodel}
+GAZEBO 上でロボットの動作を模擬するために主として，1) ロボットモデル，2) 走行フィールド，3) 人物モデル，というシミュレーション用のモデルを構築した．これらを統合して構築したシミュレーション空間を，Fig.\ref{simulation_summary}に示す．以下では，各構成要素について順に述べる．
+
+1) ロボットモデルの外観については，3D CAD ツールによって作成した．GAZEBO 用のセンサプラグインを利用することで，LRF　や3D　LIDER　の情報もシミュレーション空間内で再現させている．
+
+2) 走行フィールドについては，機能の検証をすることが目的であるため，公開された既存の環境を利用することで開発効率の向上を測ることとした．今回は，ROS 対応ロボットHuskey \cite{husky} のシミュレーションで利用されているフィールドを元にカスタマイズしたものを使用した．本フィールドの全体図をFig.\ref{simulation_field}に示す．図中の点線で示した経路が，テスト用に設定した経路である．本フィールドを選択したのは，多様な形状の障害物が随所に配置されているという特長を有しており，障害物の回避や人物探索の挙動を確認する上で有効であると判断したためである．
+
+3) 人物モデルについては，人物探索の精度や，探索対象アプローチの挙動を，シミュレーション空間上で評価するために構築した．当該人物モデルをFig. \ref{human_model} に示す．今回は点群情報のみを用いて人物探索をしているため，寸法や形状の再現を優先した設計を行ったが，色情報や反射強度といった形状以外のパラメータの設定については特段の設計は行わないこととした．
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=8cm]{./fig/png/ros_control.png}
+    \caption{ros\_control の概念図．}
+    \label{ros_control}
+\end{figure}
+
+\subsection{ros\_control への対応}
+\label{subsec:ros_control}
+ROS には，実験機とシミュレータ間で共通のコントローラを利用できるようにするフレームワークとして ros\_control \cite{ros_control_wiki} が提供されている．本フレームワークに対応することで，アプリケーションレベルのソフトウェアも実験機と同一のものを使用できるという利点を享受できる．今回，CIR-KIT C3 の構成に合わせてプラグインの開発も行ったことで，シミュレーション空間内で自律走行の動的な挙動レベルまで再現することに成功した．
 
 \end{document}
