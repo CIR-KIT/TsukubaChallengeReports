@@ -229,7 +229,7 @@ FUNCTION {completed.message}
 %% STRING CONSTANTS %%
 %%%%%%%%%%%%%%%%%%%%%%
 
-FUNCTION {bbl.and}{ "and" }
+FUNCTION {bbl.and}{ " " }
 FUNCTION {bbl.etal}{ "et~al." }
 FUNCTION {bbl.editors}{ "eds." }
 FUNCTION {bbl.editor}{ "ed." }
@@ -237,7 +237,7 @@ FUNCTION {bbl.edition}{ "ed." }
 FUNCTION {bbl.volume}{ "vol." }
 FUNCTION {bbl.of}{ "of" }
 FUNCTION {bbl.number}{ "no." }
-FUNCTION {bbl.in}{ "in" }
+FUNCTION {bbl.in}{ ", " }
 FUNCTION {bbl.pages}{ "pp." }
 FUNCTION {bbl.page}{ "p." }
 FUNCTION {bbl.chapter}{ "ch." }
@@ -647,7 +647,7 @@ numnames
 FUNCTION {output.nonnull}
 { swap$
   prev.status.punct punct.comma =
-     { "," * }
+     { "" * }
      { skip$ }
    if$
   prev.status.punct punct.period =
@@ -1426,7 +1426,7 @@ FUNCTION {format.in.booktitle.edition}
       select.language
       emphasize
       edition empty$ 'skip$
-        { ", " *
+        { " " *
           edition
           convert.edition
           "l" change.case$
@@ -1484,7 +1484,7 @@ FUNCTION {format.book.title.edition}
       select.language
       emphasize
       edition empty$ 'skip$
-        { ", " *
+        { " " *
           edition
           convert.edition
           status.cap
