@@ -16,7 +16,7 @@
 識別に利用した特徴量$f_{i}$は6次元からなる$f_{i1}$と7次元からなる$f_{i2}$の２つの特徴ベクトルを並べた13次元の特徴量である．
 まず，$f_{i1}$は点群の三次元共分散行列の要素であり次式で示される．
 \begin{eqnarray}
- \mbox{\boldmath $\varSigma$} = \frac{1}{n-1}\sum_{\vec{x_{k}}(i)\in C_{i}}\vec{x}_{k}^{(i)}\vec{x}_{k}^{(i)T}\label{234310_5Dec16}
+ \mbox{\boldmath $\varSigma$} = \frac{1}{n-1}\sum_{\vec{x}_{k}^{(i)}\in C_{i}}\vec{x}_{k}^{(i)}\vec{x}_{k}^{(i)T}\label{234310_5Dec16}
 \end{eqnarray}
 ここで，$\vec{x}_{k}^{(i)}\triangleq[x_{k}^{(i)} y_{k}^{(i)} z_{k}^{(i)}]^{T}$はクラスタ内に含まれる点群のクラスタ重心を原点とする座標である．この行列は対称行列であるため，行列要素のうち重複を除いた6要素を特徴量として，$\vec{f}_{i1} = [f_{i11}, \cdots, f_{i16}]^{T}$とする．
 式\eqref{234310_5Dec16}に示す3次元共分散行列の固有値を$\lambda_{1}, \lambda_{2}, \lambda_{3}$とする．ただし，$\lambda_{1} < \lambda_{2} < \lambda_{3}$である．この固有値を元にTable.\ref{222525_5Dec16}に示す特徴量を計算しこれを$\vec{f}_{i2}$とした．
