@@ -1,0 +1,1181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="whole_system.eps">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path5028"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path5031"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-7"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5028-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-6"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5031-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-8"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5031-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-3"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5031-4"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-2"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5031-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-24"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5031-51"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-9"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5031-8"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-33"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5031-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="1466.1655"
+     inkscape:cy="308.55163"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1873"
+     inkscape:window-height="1056"
+     inkscape:window-x="47"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4225" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:2.31093121;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:13.86558652, 13.86558652;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect15275"
+       width="671.57684"
+       height="786.5423"
+       x="-311.84784"
+       y="-1123.4391"
+       ry="39.993671"
+       rx="35.161087"
+       transform="scale(1,-1)" />
+    <g
+       id="g4685"
+       transform="translate(-15.077375,612)"
+       style="stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none">
+      <rect
+         y="351.16476"
+         x="14.224598"
+         height="100"
+         width="320"
+         id="rect2985-3"
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         sodipodi:linespacing="100%"
+         id="text3023-5-6"
+         y="395.22726"
+         x="174.45897"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+         xml:space="preserve"><tspan
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;text-anchor:middle;font-family:'IPAexゴシック';-inkscape-font-specification:'IPAexゴシック'"
+           y="395.22726"
+           x="174.45897"
+           id="tspan3025-3-2"
+           sodipodi:role="line">iMCs01</tspan><tspan
+           id="tspan3090"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;text-anchor:middle;font-family:'IPAexゴシック';-inkscape-font-specification:'IPAexゴシック'"
+           y="435.22726"
+           x="174.45897"
+           sodipodi:role="line">マイコンボード</tspan></text>
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2985"
+       width="320"
+       height="50"
+       x="-0.85277724"
+       y="648.12195" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="70.897224"
+       y="686.27057"
+       id="text3023-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3025-5"
+         x="70.897224"
+         y="686.27057"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'IPAexゴシック';-inkscape-font-specification:'IPAexゴシック'">2D LiDAR</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2985-3-6"
+       width="320"
+       height="100"
+       x="-0.85277689"
+       y="805.95551" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="159.15698"
+       y="850.03754"
+       id="text3113"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="159.15698"
+         y="850.03754"
+         id="tspan3117"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;text-anchor:middle;font-family:'IPAexゴシック';-inkscape-font-specification:'IPAexゴシック'">モータ</tspan><tspan
+         id="tspan4013"
+         sodipodi:role="line"
+         x="159.15698"
+         y="890.03754"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;text-anchor:middle;font-family:'IPAexゴシック';-inkscape-font-specification:'IPAexゴシック'">ドライバ</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4015"
+       y="949.36218"
+       x="177.59293"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="949.36218"
+         x="177.59293"
+         id="tspan4017"
+         sodipodi:role="line"
+         style="font-size:32px">PWM</tspan></text>
+    <g
+       id="g4751"
+       transform="translate(48.769378,519.73185)"
+       style="stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none">
+      <rect
+         y="470.3447"
+         x="530.73767"
+         height="50"
+         width="400"
+         id="rect2985-3-8"
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3137"
+         y="507.98141"
+         x="552.59418"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+         xml:space="preserve"
+         inkscape:transform-center-x="-16.970563"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'IPAexゴシック';-inkscape-font-specification:'IPAexゴシック'"
+           y="507.98141"
+           x="552.59418"
+           id="tspan3139"
+           sodipodi:role="line">fourth_robot_driver</tspan></text>
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2985-3-8-9"
+       width="300"
+       height="50"
+       x="501.94577"
+       y="648.12201" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="562.737"
+       y="684.34271"
+       id="text3137-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3139-1"
+         x="562.737"
+         y="684.34271"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'IPAexゴシック';-inkscape-font-specification:'IPAexゴシック'">urg_node</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2985-3-8-9-6"
+       width="300"
+       height="50"
+       x="499.92548"
+       y="715.91638" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="564.2522"
+       y="752.13708"
+       id="text3137-4-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3139-1-3"
+         x="564.2522"
+         y="752.13708"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'IPAexゴシック';-inkscape-font-specification:'IPAexゴシック'">urg_node</tspan></text>
+    <g
+       id="g4736"
+       transform="translate(144.42316,576.73843)"
+       style="stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none">
+      <rect
+         y="133.98703"
+         x="870.30341"
+         height="50"
+         width="320"
+         id="rect2985-3-8-9-5"
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3137-4-48"
+         y="171.62375"
+         x="895.57684"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'IPAexゴシック';-inkscape-font-specification:'IPAexゴシック'"
+           y="171.62375"
+           x="895.57684"
+           id="tspan3139-1-7"
+           sodipodi:role="line">ira_laser_tools</tspan></text>
+    </g>
+    <g
+       id="g4795"
+       transform="translate(546.54667,526.21275)"
+       style="stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none">
+      <rect
+         y="358.84647"
+         x="929.65784"
+         height="50"
+         width="250"
+         id="rect2985-3-8-9-5-3-0"
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3137-4-48-3-1"
+         y="396.48318"
+         x="949.15979"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'IPAexゴシック';-inkscape-font-specification:'IPAexゴシック'"
+           y="396.48318"
+           x="949.15979"
+           id="tspan3139-1-7-5-4"
+           sodipodi:role="line">move_base</tspan></text>
+    </g>
+    <g
+       id="g4805"
+       transform="translate(237.92777,518.10214)"
+       style="stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none">
+      <rect
+         y="470.06262"
+         x="1238.2767"
+         height="50"
+         width="250"
+         id="rect2985-3-8-9-5-3-5"
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3137-4-48-3-7"
+         y="501.74231"
+         x="1254.3021"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'IPAexゴシック';-inkscape-font-specification:'IPAexゴシック'"
+           y="501.74231"
+           x="1254.3021"
+           id="tspan3139-1-7-5-0"
+           sodipodi:role="line">map_server</tspan></text>
+    </g>
+    <g
+       id="g4774"
+       transform="translate(195.14282,512.94789)"
+       style="stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none">
+      <rect
+         y="111.05296"
+         x="1282.5427"
+         height="100"
+         width="250"
+         id="rect2985-3-8-9-5-3-7"
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         sodipodi:linespacing="100%"
+         id="text3137-4-48-3-8"
+         y="151.41429"
+         x="1304.8572"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:'IPAexゴシック';-inkscape-font-specification:'IPAexゴシック'"
+           y="151.41429"
+           x="1304.8572"
+           id="tspan3139-1-7-5-9"
+           sodipodi:role="line">waypoint_</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:'IPAexゴシック';-inkscape-font-specification:'IPAexゴシック'"
+           id="tspan3283"
+           y="191.41429"
+           x="1304.8572"
+           sodipodi:role="line">   navigator</tspan></text>
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3370-9"
+       width="216.35213"
+       height="48.352123"
+       x="-275.63031"
+       y="830.05878" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:80.00000119%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="-166.13977"
+       y="868.43018"
+       id="text3023-5-6-6-5-0-3"
+       sodipodi:linespacing="80.000001%"><tspan
+         sodipodi:role="line"
+         x="-166.13977"
+         y="868.43018"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:80.00000119%;text-anchor:middle;font-family:'IPAexゴシック';-inkscape-font-specification:'IPAexゴシック'"
+         id="tspan3368-6-3">左右モータ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="68.897224"
+       y="755.48669"
+       id="text3023"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3025"
+         x="68.897224"
+         y="755.48669"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'IPAexゴシック';-inkscape-font-specification:'IPAexゴシック'">2D LiDAR</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2985-6"
+       width="320"
+       height="50"
+       x="-0.85277659"
+       y="715.91638" />
+    <g
+       id="g4800"
+       transform="translate(120.78446,365.0529)"
+       style="stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none">
+      <rect
+         y="468.00632"
+         x="967.78699"
+         height="50"
+         width="250"
+         id="rect2985-3-8-9-5-3-1"
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3137-4-48-3-0"
+         y="507.88913"
+         x="1048.8319"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'IPAexゴシック';-inkscape-font-specification:'IPAexゴシック'"
+           y="507.88913"
+           x="1048.8319"
+           id="tspan3139-1-7-5-45"
+           sodipodi:role="line">amcl</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       d="M -0.49913051,853.0062 -58.074852,852.26639"
+       id="path4553"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 801.42857,670.07647 c 109.92911,0 128.0915,45.698 168.57143,64.28571 12.00505,5.51252 26.13357,5.32676 45,5"
+       id="path4895"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       d="M 799.25,740.07647 1010,739.36218"
+       id="path4913"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow1Lend)"
+       d="m 1338.6114,737.50649 c 45.7375,3.85265 52.7326,56.85569 111.3886,56.85569 50,0 122.0858,36.33897 149.0497,78.41454 1.5115,3.0802 4.0499,6.10983 5.9991,9.48593"
+       id="path4915"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       d="m 1475.2292,911.03735 c -214.3303,0 -276.6842,99.86875 -492.04637,99.86875"
+       id="path4921"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart);marker-end:none"
+       d="m 1151.6244,886.33593 c -1.7641,3.2555 -4.4484,6.07649 -5.7931,9.22355 -45.6092,106.74752 -305.05902,4.75811 -373.09916,94.46342"
+       id="path4929"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       d="m 155.56349,961.80109 0,-56.06347"
+       id="path4937"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart);marker-end:none"
+       d="M 1630.7121,881.58722 1631,724.36218"
+       id="path4939"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       d="m 1607.1428,987.21932 0,-48.70289"
+       id="path4939-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       d="m 1606.1425,987.742 c -26.2629,-54.49549 -305.8468,39.0679 -343.2342,-91.57 -0.8441,-2.94944 -2.973,-6.38857 -4.2582,-9.79289"
+       id="path4961"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart);marker-end:none"
+       d="m 1558.0319,882.35981 c -2.6621,-2.31685 -5.4465,-4.76935 -8.4473,-7.37792 -33.5159,-29.13465 -141.2804,-17.16722 -211.9023,-17.16722"
+       id="path4961-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       d="m 318.75001,673.12199 182.49999,0"
+       id="path4891-7-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       d="m 319.64286,740.91636 180.71428,0"
+       id="path4891-7-13"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow1Lend)"
+       d="m 579.42317,996.79075 -259.52143,0"
+       id="path4931-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:2.31034708;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect15277"
+       width="1369.6394"
+       height="788.28699"
+       x="412.20596"
+       y="335.05505"
+       rx="40.40234"
+       ry="48.545528" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="-280"
+       y="392.36218"
+       id="text15279"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan15281"
+         x="-280"
+         y="392.36218"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'IPAexゴシック';-inkscape-font-specification:'IPAexゴシック'">ハードウェア</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="1520"
+       y="392.36218"
+       id="text15279-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan15281-1"
+         x="1520"
+         y="392.36218"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'IPAexゴシック';-inkscape-font-specification:'IPAexゴシック'">ソフトウェア</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:Sans Italic"
+       x="1052.3201"
+       y="1035.4556"
+       id="text15304"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan15306"
+         x="1052.3201"
+         y="1035.4556"
+         style="font-size:32px;font-style:normal;font-weight:normal;-inkscape-font-specification:cmr10">速度指令</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:Sans Italic"
+       x="866"
+       y="938.36218"
+       id="text15304-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="866"
+         y="938.36218"
+         style="font-size:32px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;-inkscape-font-specification:cmr10"
+         id="tspan3969">ホイールオドメトリ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:Sans Italic"
+       x="824"
+       y="772.36218"
+       id="text15304-6-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan15306-6-8"
+         x="824"
+         y="772.36218"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'IPAexゴシック';-inkscape-font-specification:'IPAexゴシック'">LaserScan</tspan></text>
+    <rect
+       style="color:#000000;fill:#ffffff;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect15439-6"
+       width="253.04324"
+       height="41.921299"
+       x="322.99625"
+       y="1032.7643"
+       rx="0"
+       ry="17.930195" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:Sans Italic"
+       x="320.14468"
+       y="1073.5148"
+       id="text15304-6-3-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan15306-6-7-4"
+         x="320.14468"
+         y="1073.5148"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'IPAexゴシック';-inkscape-font-specification:'IPAexゴシック'">エンコーダ観測値</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart);marker-end:none"
+       d="m 576.15286,1034.505 -256.51634,0"
+       id="path4931"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <g
+       transform="translate(7.6055276,687.37399)"
+       id="g15886-8">
+      <rect
+         ry="14.394665"
+         rx="0"
+         y="-50.667507"
+         x="364.56146"
+         height="34.28933"
+         width="64.846191"
+         id="rect15439-9-7"
+         style="color:#000000;fill:#ffffff;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text15304-6-3-4-3"
+         y="-28.173233"
+         x="370.383"
+         style="font-size:40px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:Sans Italic"
+         xml:space="preserve"><tspan
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold"
+           y="-28.173233"
+           x="370.383"
+           id="tspan15306-6-7-6-5"
+           sodipodi:role="line">(LAN)</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:Sans Italic"
+       x="417.29312"
+       y="1022.3817"
+       id="text15304-6-3-4-0-6-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan15306-6-7-6-2-7-4"
+         x="417.29312"
+         y="1022.3817"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold">(USB)</tspan></text>
+    <g
+       transform="translate(6.7734208,758.64011)"
+       id="g15886-8-9">
+      <rect
+         ry="14.394665"
+         rx="0"
+         y="-48.417507"
+         x="364.56146"
+         height="29.53933"
+         width="64.846191"
+         id="rect15439-9-7-9"
+         style="color:#000000;fill:#ffffff;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text15304-6-3-4-3-8"
+         y="-28.173233"
+         x="370.383"
+         style="font-size:40px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:Sans Italic"
+         xml:space="preserve"><tspan
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold"
+           y="-28.173233"
+           x="370.383"
+           id="tspan15306-6-7-6-5-4"
+           sodipodi:role="line">(LAN)</tspan></text>
+    </g>
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect16086"
+       width="0.75"
+       height="1"
+       x="447"
+       y="625.61218"
+       ry="0.375" />
+    <g
+       id="g4004"
+       transform="translate(0,612)">
+      <g
+         id="g4001">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1"
+           id="rect3999"
+           width="223.44574"
+           height="73.539108"
+           x="350.72498"
+           y="298.58633"
+           ry="17.930191" />
+      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text15304-6-3"
+         y="325.85837"
+         x="450.26666"
+         style="font-size:40px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:Sans Italic"
+         xml:space="preserve"><tspan
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'IPAexゴシック';-inkscape-font-specification:'IPAexゴシック'"
+           y="325.85837"
+           x="450.26666"
+           id="tspan15306-6-7"
+           sodipodi:role="line">PWM</tspan><tspan
+           id="tspan3989"
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'IPAexゴシック';-inkscape-font-specification:'IPAexゴシック'"
+           y="365.85837"
+           x="450.26666"
+           sodipodi:role="line">デューティー比</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend-8)"
+       d="m -175,878.36218 c -2.53553,160.00002 110,139.00002 173,139.50002"
+       id="path4021"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-84.367149"
+       y="943.11328"
+       id="text4213"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4215"
+         x="-84.367149"
+         y="943.11328"
+         style="font-size:36px;text-align:center;text-anchor:middle">エンコーダ</tspan><tspan
+         sodipodi:role="line"
+         x="-84.367149"
+         y="988.11328"
+         style="font-size:36px;text-align:center;text-anchor:middle"
+         id="tspan4217">パルス</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:Sans Italic"
+       x="1626"
+       y="976.36218"
+       id="text15304-67"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan15306-5"
+         x="1626"
+         y="976.36218"
+         style="font-size:32px;font-style:normal;font-weight:normal;-inkscape-font-specification:cmr10">地図情報</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:Sans Italic"
+       x="1352"
+       y="848.36218"
+       id="text15304-67-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan15306-5-5"
+         x="1352"
+         y="848.36218"
+         style="font-size:32px;font-style:normal;font-weight:normal;-inkscape-font-specification:cmr10">自己位置</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:Sans Italic"
+       x="1638"
+       y="808.36218"
+       id="text15304-67-3-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1638"
+         y="808.36218"
+         style="font-size:32px;font-style:normal;font-weight:normal;-inkscape-font-specification:cmr10"
+         id="tspan4313">目標位置</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:Sans Italic"
+       x="1034"
+       y="808.36218"
+       id="text15304-6-4-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan15306-6-8-1"
+         x="1034"
+         y="808.36218"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'IPAexゴシック';-inkscape-font-specification:'IPAexゴシック'">LaserScan</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend-8)"
+       d="m 1210,759.36218 c 0,70 0,72 0,72"
+       id="path4315"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:Sans Italic"
+       x="1430"
+       y="784.36218"
+       id="text15304-6-4-9-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan15306-6-8-1-8"
+         x="1430"
+         y="784.36218"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'IPAexゴシック';-inkscape-font-specification:'IPAexゴシック'">LaserScan</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:Sans Italic"
+       x="1068"
+       y="704.36218"
+       id="text15304-6-4-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan15306-6-8-2"
+         x="1068"
+         y="704.36218"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'IPAexゴシック';-inkscape-font-specification:'IPAexゴシック'">(Laser Merger)</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2985-0"
+       width="348.97418"
+       height="184.97423"
+       x="-15.339893"
+       y="441.63489" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2985-4"
+       width="320"
+       height="50"
+       x="-2.8527832"
+       y="498.12198" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="76"
+       y="538.36218"
+       id="text3023-6-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3025-5-7"
+         x="76"
+         y="538.36218"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'IPAexゴシック';-inkscape-font-specification:'IPAexゴシック'">2D LiDAR</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2985-4-3"
+       width="320"
+       height="50"
+       x="-2.8527832"
+       y="562.12195" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="76"
+       y="602.36218"
+       id="text3023-6-2-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3025-5-7-8"
+         x="76"
+         y="602.36218"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'IPAexゴシック';-inkscape-font-specification:'IPAexゴシック'">陽動装置</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="76"
+       y="484.36218"
+       id="text3023-6-2-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3025-5-7-3"
+         x="76"
+         y="484.36218"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'IPAexゴシック';-inkscape-font-specification:'IPAexゴシック'">3D LiDAR</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2985-7"
+       width="320"
+       height="50"
+       x="2.25"
+       y="372.21356" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="66"
+       y="410.36218"
+       id="text3023-6-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3025-5-0"
+         x="66"
+         y="410.36218"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'IPAexゴシック';-inkscape-font-specification:'IPAexゴシック'">9Axis IMU</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       d="M 317.75001,588.62199 C 380.62274,585.16661 446.07725,553.30846 500,552.36218"
+       id="path4891-7-1-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:none"
+       d="m 317,525.36218 c 61.47687,14.09913 118.7768,27.5199 178,27"
+       id="path4891-7-1-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g5015"
+       transform="translate(3,15)">
+      <rect
+         ry="12.762026"
+         rx="0"
+         y="488.46411"
+         x="369.81451"
+         height="30.400242"
+         width="78.988327"
+         id="rect15439-9-7-5"
+         style="color:#000000;fill:#ffffff;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text15304-6-3-4-3-2"
+         y="512.36218"
+         x="372"
+         style="font-size:40px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:Sans Italic"
+         xml:space="preserve"><tspan
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold"
+           y="512.36218"
+           x="372"
+           id="tspan15306-6-7-6-5-44"
+           sodipodi:role="line">(LAN)</tspan></text>
+    </g>
+    <rect
+       style="color:#000000;fill:#ffffff;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect15439-9-7-5-6"
+       width="76.346191"
+       height="28.986029"
+       x="376.17847"
+       y="585.6712"
+       rx="0"
+       ry="12.168339" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:Sans Italic"
+       x="375"
+       y="607.36218"
+       id="text15304-6-3-4-0-6-5-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan15306-6-7-6-2-7-4-8"
+         x="375"
+         y="607.36218"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold">(USB)</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2985-3-8-9-8"
+       width="300"
+       height="50"
+       x="503.2088"
+       y="526.14148" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="540"
+       y="562.36218"
+       id="text3137-4-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3139-1-2"
+         x="540"
+         y="562.36218"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'IPAexゴシック';-inkscape-font-specification:'IPAexゴシック'">gim30_node</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2985-3-8-9-8-3"
+       width="468.27899"
+       height="49.279007"
+       x="499.56931"
+       y="376.50198" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="516"
+       y="412.36218"
+       id="text3137-4-9-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3139-1-2-2"
+         x="516"
+         y="412.36218"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'IPAexゴシック';-inkscape-font-specification:'IPAexゴシック'">rt_usb_9axisimu_driver</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       d="m 320.76148,402.28342 182.49999,0"
+       id="path4891-7-1-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <g
+       transform="translate(9.6170044,416.53542)"
+       id="g15886-8-5">
+      <rect
+         ry="14.394665"
+         rx="0"
+         y="-50.667507"
+         x="364.56146"
+         height="34.28933"
+         width="64.846191"
+         id="rect15439-9-7-7"
+         style="color:#000000;fill:#ffffff;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text15304-6-3-4-3-1"
+         y="-28.173233"
+         x="370.383"
+         style="font-size:40px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:Sans Italic"
+         xml:space="preserve"><tspan
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Bold"
+           y="-28.173233"
+           x="370.383"
+           id="tspan15306-6-7-6-5-6"
+           sodipodi:role="line">(USB)</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       d="m 968,402.36218 82,0"
+       id="path4891-7-1-7-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       d="M 804.58318,547.90983 930,547.36218"
+       id="path4891-7-1-7-1-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:Sans Italic"
+       x="936"
+       y="540.36218"
+       id="text15304-6-4-5-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="936"
+         y="540.36218"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'IPAexゴシック';-inkscape-font-specification:'IPAexゴシック'"
+         id="tspan5185">Point Cloud/</tspan><tspan
+         sodipodi:role="line"
+         x="936"
+         y="580.36218"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'IPAexゴシック';-inkscape-font-specification:'IPAexゴシック'"
+         id="tspan5189">Point Cloud2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:Sans Italic"
+       x="1060"
+       y="412.36218"
+       id="text15304-6-4-5-9-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1060"
+         y="412.36218"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'IPAexゴシック';-inkscape-font-specification:'IPAexゴシック'"
+         id="tspan5189-0">Pose</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1156.5,373.86218 c 28.5,48.5 28.5,48.5 30,100 -1.5,73.5 -1.5,73.5 -30,120"
+       id="path5217"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:Sans Italic"
+       x="1340"
+       y="472.36218"
+       id="text15304-6-4-5-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan15306-6-8-2-8"
+         x="1340"
+         y="472.36218"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:'IPAexゴシック';-inkscape-font-specification:'IPAexゴシック'">つくばチャレンジ2016</tspan><tspan
+         sodipodi:role="line"
+         x="1340"
+         y="507.36218"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:'IPAexゴシック';-inkscape-font-specification:'IPAexゴシック'"
+         id="tspan5240">では使用せず</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:Sans Italic"
+       x="1330"
+       y="1008.3622"
+       id="text15304-67-36"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan15306-5-7"
+         x="1330"
+         y="1008.3622"
+         style="font-size:32px;font-style:normal;font-weight:normal;-inkscape-font-specification:cmr10">地図情報</tspan></text>
+  </g>
+</svg>
